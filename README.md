@@ -25,12 +25,12 @@
 
 5. [Swift Development](https://github.com/mikeroyal/Metal-Guide#swift-development)
 
-6. [Objective-C Development](https://github.com/mikeroyal/Metal-Guide#obbjective-c-development)
+6. [Objective-C Development](https://github.com/mikeroyal/Metal-Guide#objective-c-development)
 
 7. [C/C++ Development](https://github.com/mikeroyal/Metal-Guide#cc-development)
 
 
-# Metal  Learning Resources
+# Metal Learning Resources
 [Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents)
 
 [Metal](https://developer.apple.com/metal/) is a low-level API that provides a platform-optimized, low-overhead API for developing the latest 3D pro applications and amazing games using a rich shading language with tighter integration between graphics and compute programs. To help you do more while managing ever more complex shader code, Metal adds an unparalleled suite of advanced GPU debugging tools to help you realize the full potential of your graphics code.
@@ -143,7 +143,7 @@
 [Debugging a Custom Kernel Extension](https://developer.apple.com/documentation/apple_silicon/debugging_a_custom_kernel_extension)
 
 # Game Development
-[Back to the Top](https://github.com/mikeroyal/DirectX-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -518,7 +518,7 @@ Developing with SwiftUI in Xcode 12
 [Nimbus](https://github.com/jverkoey/nimbus) is an iOS framework whose feature set grows only as fast as its documentation.
 
 # C/C++ Development
-[Back to the Top](https://github.com/mikeroyal/DirectX-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -660,10 +660,10 @@ Developing with SwiftUI in Xcode 12
 
 ## Contribute
 
-- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/DirectX-Guide/pulls).
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Metal-Guide/pulls).
 
 
 ## License
-[Back to the Top](https://github.com/mikeroyal/DirectX-Guide#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/Metal-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
